@@ -1,0 +1,13 @@
+MENU BEGIN GNEWSENSE
+MENU LABEL ^gNewSense Live 2.3
+# ------====> Include Menu Settings <====------
+MENU INCLUDE er/menuinc/header.module
+
+# ------====> Set Specific Page Settings <====------
+MENU BACKGROUND er/plugins/gnewsense/gnewsense.png
+
+MENU INCLUDE er/plugins/gnewsense/gnewsensemain.menu
+  
+# ------====> Back <====------
+MENU INCLUDE er/menu/shared/menu-back.module
+MENU END

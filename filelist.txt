@@ -1,0 +1,8 @@
+.:
+filelist.txt
+gnewsensemain.menu
+gnewsense.menu
+gnewsense.png
+initrd.gz
+
+vmlinuz
