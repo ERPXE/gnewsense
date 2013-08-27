@@ -4,5 +4,5 @@ gnewsensemain.menu
 gnewsense.menu
 gnewsense.png
 initrd.gz
-
+splash.rle
 vmlinuz
